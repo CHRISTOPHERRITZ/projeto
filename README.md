@@ -13,7 +13,7 @@
     </head>
     <style>
     body {
-        background-image: url('img/fundo.jpg');
+        background-image: url('IMG/fundo.jpg');
         background-attachment: fixed;
         background-size: cover;
         background-repeat: no-repeat;

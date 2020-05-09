@@ -79,7 +79,7 @@ h1 {
     font-size: 16px;
     color: rgb(192, 192, 192, .8);
     background-color: rgba(0, 0, 0, .5);
-    text-align: center;
+    text-align: left;
     position: fixed;
     left: 0;
     bottom: 0;
@@ -93,7 +93,7 @@ h1 {
     font-size: 16px;
     color: rgb(192, 192, 192, .8);
     background-color: rgba(0, 0, 0, .5);
-    text-align: center;
+    text-align: right;
     position: fixed;
     left: 0;
     bottom: 0;

@@ -64,7 +64,7 @@
           <div class="rodape2">
             <address>
                 Contatos<br>
-               <a href="https://www.youtube.com/channel/UCIs7bp-uTR6I6FUPuFRG-gQ"_blanck>Youtube</a>
+               <a href="https://www.youtube.com/channel/UCIs7bp-uTR6I6FUPuFRG-gQ" target="_blank">Youtube</a>
             </address>
         </div>
         <div class="rodape3">

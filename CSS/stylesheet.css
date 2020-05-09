@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@500&display=swap');
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+.corpo {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px 50px 10px 50px;
+    background-color: rgba(192, 192, 192, .6);
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, .5);
+}
+
+.corpo p{
+    font-family: 'Bree Serif', serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.fotos {
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, .5);
+    background-color: rgba(255, 255, 255, .5);
+}
+
+.foto1 {
+    position: relative;
+    left: 50%;
+    transform: translatex(50%);
+    width: 300px;
+    height: 150px;
+}
+
+.foto2 {
+    width: 300px;
+    height: 300px;
+    transform: translatex(-50%);
+}
+
+h1 {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 500;
+    text-align: center;
+}
+
+.rodape1 {
+    font-family: 'Bree Serif', serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: rgb(192, 192, 192, .8);
+    background-color: rgba(0, 0, 0, .5);
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+}
+
+.rodape2 {
+    font-family: 'Bree Serif', serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: rgb(192, 192, 192, .8);
+    background-color: rgba(0, 0, 0, .5);
+    text-align: right;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    
+}
+
+.rodape3 {
+    font-family: 'Bree Serif', serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: rgb(192, 192, 192, .8);
+    background-color: rgba(0, 0, 0, .5);
+    text-align: left;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    
+}

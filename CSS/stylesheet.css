@@ -101,6 +101,9 @@ h1 {
     
 }
 .video {
-    width: 50%;
-    margin: 0 auto;
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }

@@ -24,7 +24,7 @@
     <body>
         <nav class="navbar navbar-expand bg-dark navbar-dark">
             <a class="navbar-brand" href="#">
-                <img src="img/logo.png" alt="logo" style="width: 150px;">
+                <img src="IMG/logo.png" alt="logo" style="width: 150px;">
             </a>
               <ul class="navbar-nav">
                 <li class="nav-item">
